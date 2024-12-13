@@ -25,3 +25,6 @@
 ## Support Group [VJ Support](https://telegram.me/vj_bot_disscussion)
 
 ## Credit - [Tech VJ](https://youtube.com/@Tech_VJ)
+
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Youu460/All-members-accept-bot-&branch=main&name=messi_6071)
